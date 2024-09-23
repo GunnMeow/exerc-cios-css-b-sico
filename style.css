@@ -1,0 +1,17 @@
+html {
+    background-color: grey;
+}
+
+.texto {
+    margin: 40px;
+    padding: 20px;
+}
+.paragrafo-fundo-padrao {
+    background-color: #F5F5F5;
+    
+}
+
+.paragrafo-fundo-destacado {
+    background-color: #F0CCE2;
+
+}
